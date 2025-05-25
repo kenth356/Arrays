@@ -13,4 +13,6 @@ int main() {
     cout << "\n[THE UPDATED VALUE OF ARRAYS OF NUMBERS ARE]\n";
     cout << right << setw(14) << "{" << numbers[0] << ", " << numbers[1] << ", " << numbers[2] << ", " << numbers[3] << ", "
     << numbers[4] << "}" << endl;
+
+    cout << endl << "ggs";
 }
