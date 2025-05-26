@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    string name[] = {"Dylan", "Kenth", "Razzell", "Robert"};
+    string name[] = {"Dylan", "Kenth", "Jan Meinard", "Robert"};
     for (string names : name) {
         cout << names << endl;
     }
